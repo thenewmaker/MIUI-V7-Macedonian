@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_long_press_action">
+        <item>Ништо</item>
+        <item>Покажи ги неодамнешните апликации </item>
+        <item>Стартувај управители</item>
+        <item>Почни со Google сега</item>
+        <item>Затвори ја моменталната апликација</item>
+		<item>Прикажи мени</item>
+    </string-array>
+</resources>

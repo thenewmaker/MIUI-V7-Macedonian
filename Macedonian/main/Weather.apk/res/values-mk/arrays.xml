@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Сончево</item>
+        <item>Облачно</item>
+        <item>Доумерено облачно</item>
+        <item>Магловито</item>
+        <item>Многу врнежливо</item>
+        <item>Пороен дожд</item>
+        <item>Невреме</item>
+        <item>Грмотевици</item>
+        <item>Дожд</item>
+        <item>Многу врнежливо</item>
+        <item>Умерено врнежливо</item>
+        <item>Слаб дожд</item>
+        <item>Дожд и снег мешано</item>
+        <item>Виулица</item>
+        <item>Снег</item>
+        <item>Многу снег</item>
+        <item>Доумерен снег</item>
+        <item>Слаб снег</item>
+        <item>Силно песочно невреме</item>
+        <item>Песочно невреме</item>
+        <item>Песок</item>
+        <item>Ветровито</item>
+        <item>Град</item>
+        <item>Прашина</item>
+        <item>Слана</item>
+        <item>Замрзнат дожд</item>
+        <item>Нема информации</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Најслабо</item>
+        <item>Слабо</item>
+        <item>Доумерено</item>
+        <item>Силно</item>
+        <item>Многу Силно</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Ветер С</item>
+        <item>Ветер СИ</item>
+        <item>Ветер И</item>
+        <item>Ветер ЈИ</item>
+        <item>Ветер З</item>
+        <item>Ветер ЈЗ</item>
+        <item>Ветер З</item>
+        <item>Ветер СЗ</item>
+    </string-array>
+</resources>
